@@ -1,0 +1,30 @@
+{
+  "name": "Webex-Bot-Starter",
+  "version": "1.0.0",
+  "description": "Starter template for creating a Webex Teams bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && node --use_strict index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebexSamples/bitcoin-bot-sample.git"
+  },
+  "keywords": [
+    "Cisco",
+    "Webex",
+    "webex-bot-framework"
+  ],
+  "author": "Aaron Burns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebexSamples/bitcoin-bot-sample/issues"
+  },
+  "homepage": "https://github.com/WebexSamples/bitcoin-bot-sample#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "js-sha1": "^0.6.0",
+    "webex-node-bot-framework": "^2.3.1"
+  }
+}
