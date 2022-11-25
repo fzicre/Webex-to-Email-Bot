@@ -5,8 +5,7 @@
 
 ## How to use it?
 
-
-## Clone and install the repo
+ Clone and install the repo
 
 In the CMD:
 
