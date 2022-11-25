@@ -17,14 +17,18 @@ In the CMD:
   ```
  Then, locate the config.json file, and put you Webex Bot Token:
  
-  
+   ```sh
  "token": "paste the access token from developer.webex.com"
-    
+   ```
   Note: The Webex Access Token can be created in the Webex Developer Portal at: https://developer.webex.com/my-apps (Create New App, then select a bot and complete all the fields. The Webex Access Token for that bot will be revealed there.
   
 Final step, run the bot:
 
 ```sh
-    npm start
+  npm start
 ```
 
+##Bot usage
+
+  ```sh
+  email + email address + text of the message Ej:"email fzicre@gmail.com Hi!")
